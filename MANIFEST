@@ -1,0 +1,11 @@
+dummies/Ball.pm
+dummies/Plot.pm
+dummies/PreLoad.pm
+dummies/Tk/ImageBack.pm
+dummies/WidgetDemo.pm
+lib/Acme/SREZIC/Obsolete.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+test.pl
+META.yml                                 Module meta-data (added by MakeMaker)
