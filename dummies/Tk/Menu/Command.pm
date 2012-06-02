@@ -1,7 +1,7 @@
-package Acme::SREZIC::Obsolete;
+package Tk::Menu::Command;
 
 use vars qw($VERSION);
-$VERSION = '0.02';
+$VERSION = '4.000';
 
 die "This is a dummy module";
 
